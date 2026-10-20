@@ -47,11 +47,10 @@ Completed Tasks (3)
 - **Features:** Mobile-first responsive layout, Dark/Light theme toggle, smooth scrolling, and project showcase.
 - **Tech Stack:** React (Vite), CSS3, Framer Motion.
 
-
-### Task 3: Expense Tracker (Full-Stack Web App)
-- **Source Code:** `Task-3-Expense-Tracker/`
-- **Features:** JWT Authentication, financial reporting, category charts, income/expense tracking.
-- **Tech Stack:** React, Node.js, Express, MySQL.
+### Task 2: Dynamic Task Manager (CRUD)
+- **Source Code:** `Task-2-Task-Manager/`
+- **Features:** Add, complete, and delete tasks. Uses browser localStorage for data persistence.
+- **Tech Stack:** React, CSS3.
 
 ### Task 4: E-Commerce Web Application (Full-Stack Web App)
 - **Source Code:** `Task-4-E-Commerce/`
