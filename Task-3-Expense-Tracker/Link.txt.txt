@@ -1,0 +1,9 @@
+GitHub Repository:
+https://github.com/imanzahra-26/expense-tracker
+
+Tech Stack:
+React (Vite), Node.js, Express.js, MySQL, JWT, Recharts, bcrypt
+
+Description:
+Full-stack expense & income tracker with secure user authentication,
+category charts, monthly summaries, and financial reports.
